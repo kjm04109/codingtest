@@ -1,1 +1,1 @@
-print('im minju hi')
+print('im, minju hi')
