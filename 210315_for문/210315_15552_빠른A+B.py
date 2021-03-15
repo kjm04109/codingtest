@@ -12,7 +12,7 @@ a,b,c = map(int, sys.stdin.readline().split)
 
 ##임의의 개수의 정수를 한 줄에 입력받아 리스트 저장
 import sys
-dat/ = list(map(int,sys.stdin.readline().split()))
+data = list(map(int,sys.stdin.readline().split()))
 
 
 ##임의의 개수의 정수를 n줄 입력받아 2차원 리스트에 저장할 때
