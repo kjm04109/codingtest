@@ -6,3 +6,5 @@ while (True):
         print(a+b)
     except:
         break
+
+## break 조건 없을 땐, 예외처리 꼭!!
