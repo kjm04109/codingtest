@@ -8,3 +8,5 @@ while (True):
 
 for i in number:
     print(i[0]+i[1])
+     
+
