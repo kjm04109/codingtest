@@ -1,6 +1,4 @@
 # 28776KB, 64ms
-import time
-start_time = time.time()
 
 n , k = map(int, input().split())
 # kind = list(map(int, input().split()))
@@ -18,10 +16,6 @@ for i in kind :
         ch = ch%i
         if ch == 0 :
             break
-    else :
-        continue
 
 print(cnt)
 
-end_time = time.time()
-print(end_time - start_time)
